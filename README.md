@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Ruan Amós 
+# Ruan Amós 
 
 **`Senior QA Engineer`**
 
