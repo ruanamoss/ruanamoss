@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Ruan Amós 
 
-**`Desenvolvedora FullStack`**
+**`Senior QA Engineer`**
 
 Hello everyone, 
 
